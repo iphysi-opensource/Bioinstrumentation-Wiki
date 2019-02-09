@@ -4,7 +4,7 @@
 # Bioinstrumentation
 From Wikipedia, the free encyclopedia
 
-Bioinstrumentation is an application of biomedical engineering, which focuses on the devices and mechanics used to measure, evaluate, and treat biological systems. It focuses on the use of multiple sensors to monitor physiological characteristics of a human or animal. Such instrumentation originated as a necessity to constantly monitor vital signs of Astronauts during NASA's Mercury, Gemini, and Apollo missions.[1][dubious – discuss]
+Bioinstrumentation is an application of biomedical engineering, which focuses on the devices and mechanics used to measure, evaluate, and treat biological systems. It focuses on the use of multiple sensors to monitor physiological characteristics of a human or animal. Such instrumentation originated as a necessity to constantly monitor vital signs of Astronauts during NASA's Mercury, Gemini, and Apollo missions.[1]
 
 Bioinstrumentation is a new and upcoming field, concentrating on treating diseases and bridging together the engineering and medical worlds. The majority of innovations within the field have occurred in the past 15-20 years. Bioinstrumentation has revolutionized the medical field, and has made treating patients much easier. The instruments/sensors convert signals found within the body into electrical signals. [2] There are many subfields within bioinstrumentation, they include: biomedical options, creation of sensor, genetic testing, and drug delivery. [3] Other fields of engineering, such as electrical engineering and computer science, are related to bioinstrumentation. [2]
 
