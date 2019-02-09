@@ -1,11 +1,8 @@
-# bioinstrumentation
-Bioinstrumentation From Wikipedia, the free encyclopedia
+
 
 	
-Bioinstrumentation
+# Bioinstrumentation
 From Wikipedia, the free encyclopedia
-Jump to navigation
-Jump to search
 
 Bioinstrumentation is an application of biomedical engineering, which focuses on the devices and mechanics used to measure, evaluate, and treat biological systems. It focuses on the use of multiple sensors to monitor physiological characteristics of a human or animal. Such instrumentation originated as a necessity to constantly monitor vital signs of Astronauts during NASA's Mercury, Gemini, and Apollo missions.[1][dubious – discuss]
 
@@ -83,76 +80,4 @@ Kumar, Padma. "What is Bioinstrumentation - Common Applications". Biotech Articl
 "Biomedical Optics (BIOMED)". The Optical Society. The Optical Society. Retrieved 31 March 2018.
 
     Mandelis, Andreas. "Focus on bioinstrumentation and biotechnologies". Physics Today. 68 (1): 50–52. doi:10.1063/pt.3.2662.
-
-Categories:
-
-    Spaceflight health effectsSmartphones
-
-Navigation menu
-
-    Not logged in
-    Talk
-    Contributions
-    Create account
-    Log in
-
-    Article
-    Talk
-
-    Read
-    Edit
-    View history
-
-Search
-
-    Main page
-    Contents
-    Featured content
-    Current events
-    Random article
-    Donate to Wikipedia
-    Wikipedia store
-
-Interaction
-
-    Help
-    About Wikipedia
-    Community portal
-    Recent changes
-    Contact page
-
-Tools
-
-    What links here
-    Related changes
-    Upload file
-    Special pages
-    Permanent link
-    Page information
-    Wikidata item
-    Cite this page
-
-Print/export
-
-    Create a book
-    Download as PDF
-    Printable version
-
-Languages
-
-Add links
-
-    This page was last edited on 9 October 2018, at 23:41 (UTC).
-    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
-
-    Privacy policy
-    About Wikipedia
-    Disclaimers
-    Contact Wikipedia
-    Developers
-    Cookie statement
-    Mobile view
-
-    Wikimedia Foundation	
-    Powered by MediaWiki	
 
